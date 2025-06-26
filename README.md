@@ -19,8 +19,3 @@ In this game, the player is positioned at the center of the screen and shoots co
 - ✅ Enemies are colorful bubbles of varying sizes
 - ✅ Clean and responsive game design
 
-## 📷 Game Preview
-
-*(You can add a screenshot here by uploading an image and adding the markdown below)*  
-```md
-![Enemy Bubble Game Screenshot](path-to-screenshot.png)
